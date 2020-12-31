@@ -1,0 +1,4 @@
+﻿  Sorting.cpp
+C:\Users\Michelle\Desktop\Studying\Sorting\Sorting\Sorting.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michelle\Desktop\Studying\Sorting\Sorting\Sorting.cpp(13,15): warning C4018: '<': signed/unsigned mismatch
+  Sorting.vcxproj -> C:\Users\Michelle\Desktop\Studying\Sorting\Sorting\Debug\Sorting.exe
